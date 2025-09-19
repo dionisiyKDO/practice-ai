@@ -1,6 +1,6 @@
 # Practice-ai
 
-Simple ToDo List app using **FastAPI** backend and **Svelte5 + Tailwind** frontend.
+Simple ToDo List app using **FastAPI** backend and **Svelte5 + Tailwind** frontend for course assignement.
 
 ## Backend
 
